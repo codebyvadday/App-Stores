@@ -1,4 +1,4 @@
-import AppStore from '../../App-Store/src/components/AppStore'
+import AppStore from '/src/components/AppStore'
 
 import './App.css'
 
